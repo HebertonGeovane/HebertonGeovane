@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" /> 
-   <img src="https://cdn.skillicons.org/vagrant/1868F2" height="40" alt="vagrant logo"  />
+   <img src="https://cdn.simopleicons.org/vagrant/1868F2" height="40" alt="vagrant logo"  />
   <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
