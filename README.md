@@ -28,6 +28,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" /> 
   <img src="https://cdn.simpleicons.org/vagrant/1868F2" height="40" alt="vagrant logo"  />
